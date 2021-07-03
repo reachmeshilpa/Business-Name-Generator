@@ -1,4 +1,4 @@
-# Business-Name-Generator
+# Business-Name-Generator-Project1
 
 print (“Welcome to the business’s name generator.”)
 city = input (“What is the city that you are opening this business in?\n”)
